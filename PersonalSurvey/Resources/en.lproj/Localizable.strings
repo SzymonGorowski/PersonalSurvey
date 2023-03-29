@@ -1,0 +1,35 @@
+// MARK: OnboardingViewController
+"OnboardingViewController.TitleLabel.Title" = "Welcome in our Survey App";
+"OnboardingViewController.DescriptionLabel.Title" = "Feel free to complete the survey and help us to growth. Thank you for participating in the survey.";
+"OnboardingViewController.StartButton.Title" = "Continue";
+
+// MARK: StartingViewController
+"StartingViewController.StartButton.Title" = "Start the survey";
+
+// MARK: PersonalDataViewController
+"PersonalDataViewController.NavigationTitle" = "Personal data";
+"PersonalDataViewController.NameTextField.Placeholder" = "Enter a name";
+"PersonalDataViewController.EmailTextField.Placeholder" = "Enter an email";
+"PersonalDataViewController.AgePickerLabel.Title" = "Pick your age:";
+"PersonalDataViewController.ContinueButton.Title" = "Continue";
+"PersonalDataViewController.GenderSegmentedControlLabel.Title" = "Select gender:";
+"PersonalDataViewController.Alert.Title" = "Please fill missing data";
+"PersonalDataViewController.Alert.Message" = "Name and an email are required";
+"PersonalDataViewController.Alert.Button" = "Ok";
+
+// MARK: EmploymentDataViewController
+"EmploymentDataViewController.NavigationTitle" = "Employment data";
+"EmploymentDataViewController.EmployerNameTextField.Placeholder" = "Enter an employer name";
+"EmploymentDataViewController.JobTitleTextField.Placeholder" = "Enter your job title";
+"EmploymentDataViewController.TypeOfWorkSegmentedControlLabel.Title" = "How do you work?";
+"EmploymentDataViewController.CompanySizeSegmentedControlLabel.Title" = "Choose company size";
+"EmploymentDataViewController.ContinueButton.Title" = "Continue";
+
+// MARK: FinishSurveyViewController
+"FinishSurveyViewController.NavigationTitle" = "Finish Survey";
+"FinishSurveyViewController.CongratsLabel.Title" = "Congrats on finishing our survey 🎉. Thank you a lot you did it! It means a lot to us!";
+"FinishSurveyViewController.FinishButton.Title" = "Finish";
+"FinishSurveyViewController.ShowSurveyMemmeButton.Title" = "Show survey memme 🥹";
+
+// MARK: MemmeViewController
+"MemmeViewController.CloseButton.Title" = "Close";
